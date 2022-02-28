@@ -28,8 +28,7 @@ spec:
           - name: Password
             value: guest
           - name: Database
-          - name: OrdersDb
-            value: rabbitmq           
+            value: OrdersDb      
              
 ---
 apiVersion: v1
