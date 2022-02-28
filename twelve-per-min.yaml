@@ -3,6 +3,6 @@ kind: KongPlugin
 metadata:
  name: twelve-per-min
 config:
- minute: 5
+ minute: 12
  policy: local
 plugin: rate-limiting
